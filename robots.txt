@@ -1,1 +1,1 @@
-Sitemap: https://Kamran-Gul.github.io/effective-couscous/sitemap.xml
+Sitemap: https://Kamran-Gul.github.io/my-quarto-website.github.io/sitemap.xml
