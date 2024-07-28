@@ -1,0 +1,40 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Project 1: Improving Quality Management System of Exam Papers Rechecking System of BISE Lahore
+
+**Duration:** Oct 2021 - Mar 2022\
+**Associated with:** Forman Christian College (A Chartered University)
+
+**Description:** Developed an improved quality management system for the Board of Intermediate and Secondary Education (BISE), Lahore, focusing on rechecking exam papers. The project aimed to enhance accuracy, efficiency, and transparency in the rechecking process.
+
+## Project 2: New Product Development of "Mood Sensing Music Player Device"
+
+**Duration:** Oct 2021 - Mar 2022\
+**Associated with:** Forman Christian College (A Chartered University)
+
+**Description:** Created a prototype for a mood-sensing music player device that adapts the music playlist based on the user's emotional state. This project involved significant research in mood detection algorithms and user experience design.
+
+## Project 3: Business Model for Zero Profit Grocery Super Markets
+
+**Duration:** Jul 2021 - Aug 2021\
+**Associated with:** University of Natural Resources and Life Sciences, Vienna (BOKU)
+
+**Description:** Designed a sustainable business model for zero-profit grocery supermarkets, focusing on community welfare and food accessibility. The project included market analysis, feasibility studies, and strategic planning.
+
+## Project 4: Business Model for Recycled Fast Fashion Clothing
+
+**Duration:** May 2021 - Jul 2021\
+**Associated with:** Lingnan University
+
+**Description:** Developed a business model for a startup focusing on recycled fast fashion clothing. The project aimed to promote sustainable fashion practices and included market research, business strategy development, and sustainability analysis.
+
+## Project 5: Upgrading Management Information System (MIS) for Papers Rechecking for BISE Lahore
+
+**Duration:** Feb 2021 - Jul 2021\
+**Associated with:** Forman Christian College (A Chartered University)
+
+**Description:** Worked on upgrading the Management Information System (MIS) for rechecking exam papers for BISE Lahore. The upgrade aimed to streamline processes, reduce errors, and improve overall efficiency.

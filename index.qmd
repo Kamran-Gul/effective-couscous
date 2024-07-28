@@ -2,10 +2,25 @@
 title: "my-quarto-website.github.io"
 ---
 
-This is a Quarto website.
+---
+title: "Home"
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[Profile Picture]("C:/Users/PC/Desktop/Photograph. Kamran.jpg")
 
-```{r}
-1 + 1
-```
+# Kamran Gul Hassan
+
+Hello! My name is Kamran Gul Hassan, and I am a dedicated professional with a strong background in operations and marketing. Currently, I am pursuing an MSc in International Business Administration with a focus on Data Science and Decision Support at the European University Viadrina.
+
+I hold a BS in Business (Honors) from Forman Christian College, where I graduated cum laude. My academic journey included being a three-time member of the Vice Rector's Honorary High Achieving List and earning a Community Service Distinction for my active involvement in volunteer activities.
+
+My professional experience includes working as an Operations Associate at the Rausing Executive Development Centre in Lahore, Pakistan. In this role, I excelled in planning, organizing, and coordinating conferences, managing vendor relationships, and executing effective marketing strategies to enhance brand visibility.
+
+I am proficient in multiple digital tools and platforms, including Microsoft Office, Google Drive, and various social media channels. Additionally, I am fluent in English and have basic proficiency in German.
+
+I am passionate about inter-functional collaboration and leveraging innovative strategies to drive audience engagement and enhance brand visibility. I am eager to contribute my skills and expertise to forward-thinking organizations that value creativity and teamwork.
+
+You can find more information about my projects, Certifications on the  and academic achievements on different tabs i.e [Projects](projects.qmd) | [Certifications](Certifications.qmd) | [Email](Achievements.qmd)
+
+[GitHub](https://github.com/Kamran-Gul) | [Email](kamran.gul001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kamrangulhassan/)
+
